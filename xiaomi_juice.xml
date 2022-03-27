@@ -5,7 +5,7 @@
 
 	<remote name="llerey"
         fetch="https://github.com/Llerey"
-	revision="main" />
+	revision="llerey4k" />
 
 	<!-- Device Repos -->
 
