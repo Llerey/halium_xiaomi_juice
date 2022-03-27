@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<!-- Main Remote -->
+
+	<remote name="llerey"
+        fetch="https://github.com/Llerey"
+	revision="main" />
+
+	<!-- Device Repos -->
+
+	<project path="kernel/xiaomi/juice" name="Ghost-Storm-Project" remote="llerey" revision="Halium-11.0" />
+	<project path="vendor/xiaomi/juice" name="android_vendor_xiaomi_juice" remote="llerey" revision="master" />
+	<project path="device/xiaomi/juice" name="android_device_xiaomi_juice" remote="llerey" revision="eleven" />
+
+</manifest>
